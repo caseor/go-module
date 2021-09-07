@@ -1,4 +1,4 @@
-package say
+package go-module
 
 import "fmt" 
 
